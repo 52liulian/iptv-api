@@ -36,7 +36,6 @@ https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/special/special.txt
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/assets/freetv/freetv_output_other.txt
 https://raw.githubusercontent.com/kimwang1978/TV/master/output/result.txt
-https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt
 https://raw.githubusercontent.com/maitel2020/iptv-self-use/main/iptv.txt
 https://raw.githubusercontent.com/mlzlzj/hnyuan/refs/heads/main/iptv_list.txt
 https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt
@@ -65,4 +64,5 @@ https://live.zbds.top/tv/iptv6.txt
 https://live.zbds.top/tv/iptv6.m3u
 https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt
 https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
+
 
