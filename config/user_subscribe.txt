@@ -64,5 +64,3 @@ https://live.zbds.top/tv/iptv6.txt
 https://live.zbds.top/tv/iptv6.m3u
 https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt
 https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
-
-
