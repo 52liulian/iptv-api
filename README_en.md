@@ -51,7 +51,7 @@ other features, under development...
     - [Docker](#docker)
 - [📖 Detailed Tutorial](./docs/tutorial_en.md)
 - [🗓️ Changelog](./CHANGELOG.md)
-- [❤️ Appreciate](#appreciate)
+- [❤️ Donations](#donations)
 - [👀 Follow](#follow)
 - [⭐️ Star History](#star-history)
 - [📣 Disclaimer](#disclaimer)
@@ -365,14 +365,6 @@ configuration file via environment variables.
 
 [Changelog](./CHANGELOG.md)
 
-## Appreciate
-
-<div>Development and maintenance are not easy, please buy me a coffee ~</div>
-
-| Alipay                                | Wechat                                    |
-|---------------------------------------|-------------------------------------------|
-| ![Alipay](./static/images/alipay.jpg) | ![Wechat](./static/images/appreciate.jpg) |
-
 ## Follow
 
 ### GitHub
@@ -387,7 +379,15 @@ WeChat public account search for Govin, or scan the code to receive updates and 
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Guovin/iptv-api&type=Date)](https://star-history.com/#Guovin/iptv-api&Date)
+[![Star History Chart](https://starchart.cc/Guovin/iptv-api.svg?variant=adaptive)](https://starchart.cc/Guovin/iptv-api)
+
+## Donations
+
+<div>Development and maintenance are not easy, please buy me a coffee ~</div>
+
+| Alipay                                | Wechat                                    |
+|---------------------------------------|-------------------------------------------|
+| ![Alipay](./static/images/alipay.jpg) | ![Wechat](./static/images/appreciate.jpg) |
 
 ## Disclaimer
 
