@@ -4,10 +4,9 @@
 # This is a list of subscription sources, with one subscription address per line
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
 https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
-
+https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
-https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
 https://gcore.jsdelivr.net/gh/liu673cn/box@main/libs/tv/tvlive.txt
 https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
 https://gitee.com/tushaoyong/live/raw/master/%E6%8E%A5%E5%8F%A3/IPV6.txt
@@ -34,7 +33,6 @@ https://raw.githubusercontent.com/maitel2020/iptv-self-use/main/iptv.txt
 https://raw.githubusercontent.com/mlzlzj/hnyuan/refs/heads/main/iptv_list.txt
 https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt
 https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
-https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
 https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u
 https://raw.githubusercontent.com/wwb521/live/main/tv.txt
 https://raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt
